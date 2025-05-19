@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<robot name="green_cube">
+  <link name="cube">
+    <inertial>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <mass value="1.0"/>
+      <inertia ixx="0.006667" ixy="0.0"   ixz="0.0"
+               iyy="0.006667" iyz="0.0"
+               izz="0.006667"/>
+    </inertial>
+
+    <collision>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.2 0.2 0.2"/>
+      </geometry>
+    </collision>
+
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.2 0.2 0.2"/>
+      </geometry>
+      <material name="GreenMaterial">
+        <color rgba="0 1 0 1"/>
+      </material>
+    </visual>
+  </link>
+</robot>

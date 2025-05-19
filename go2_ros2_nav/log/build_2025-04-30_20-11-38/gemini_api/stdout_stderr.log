@@ -1,0 +1,28 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/lib/gemini_api/gemini_with_isaacsim.py
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/ament_index/resource_index/package_run_dependencies/gemini_api
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/ament_index/resource_index/parent_prefix_path/gemini_api
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/environment/ament_prefix_path.sh
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/environment/ament_prefix_path.dsv
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/environment/path.sh
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/environment/path.dsv
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/local_setup.bash
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/local_setup.sh
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/local_setup.zsh
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/local_setup.dsv
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/package.dsv
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/ament_index/resource_index/packages/gemini_api
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/cmake/gemini_apiConfig.cmake
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/cmake/gemini_apiConfig-version.cmake
+-- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/package.xml

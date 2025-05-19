@@ -1,0 +1,1 @@
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/ament_cmake_core/gemini_apiConfig-version.cmake

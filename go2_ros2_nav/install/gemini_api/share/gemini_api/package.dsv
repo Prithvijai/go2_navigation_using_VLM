@@ -1,0 +1,8 @@
+source;share/gemini_api/hook/cmake_prefix_path.ps1
+source;share/gemini_api/hook/cmake_prefix_path.dsv
+source;share/gemini_api/hook/cmake_prefix_path.sh
+source;share/gemini_api/local_setup.bash
+source;share/gemini_api/local_setup.dsv
+source;share/gemini_api/local_setup.ps1
+source;share/gemini_api/local_setup.sh
+source;share/gemini_api/local_setup.zsh

@@ -1,0 +1,1 @@
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/src/gemini_api/scripts/plan_executor_node.py

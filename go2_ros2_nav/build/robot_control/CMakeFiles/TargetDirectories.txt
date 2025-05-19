@@ -1,0 +1,9 @@
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/CMakeFiles/uninstall.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/CMakeFiles/robot_control_uninstall.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/CMakeFiles/test.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/CMakeFiles/edit_cache.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/CMakeFiles/rebuild_cache.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/CMakeFiles/list_install_components.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/CMakeFiles/install.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/CMakeFiles/install/local.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/CMakeFiles/install/strip.dir

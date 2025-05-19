@@ -1,0 +1,9 @@
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/CMakeFiles/uninstall.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/CMakeFiles/gemini_api_uninstall.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/CMakeFiles/test.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/CMakeFiles/edit_cache.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/CMakeFiles/rebuild_cache.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/CMakeFiles/list_install_components.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/CMakeFiles/install.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/CMakeFiles/install/local.dir
+/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api/CMakeFiles/install/strip.dir

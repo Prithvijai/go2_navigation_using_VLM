@@ -1,0 +1,83 @@
+[0.013s] Invoking command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control': CMAKE_PREFIX_PATH=/opt/ros/humble /home/saitama/.local/bin/cmake /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/src/robot_control -DCMAKE_INSTALL_PREFIX=/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control
+[0.069s] [0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[0.069s]   Compatibility with CMake < 3.10 will be removed from a future version of
+[0.069s]   CMake.
+[0.069s] 
+[0.069s]   Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+[0.069s]   to tell CMake that the project requires at least <min> but has been updated
+[0.069s]   to work with policies introduced by <max> or earlier.
+[0.069s] 
+[0.069s] [0m
+[0.177s] -- The C compiler identification is GNU 11.4.0
+[0.269s] -- The CXX compiler identification is GNU 11.4.0
+[0.279s] -- Detecting C compiler ABI info
+[0.344s] -- Detecting C compiler ABI info - done
+[0.354s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.354s] -- Detecting C compile features
+[0.355s] -- Detecting C compile features - done
+[0.366s] -- Detecting CXX compiler ABI info
+[0.425s] -- Detecting CXX compiler ABI info - done
+[0.437s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.438s] -- Detecting CXX compile features
+[0.438s] -- Detecting CXX compile features - done
+[0.456s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.555s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter
+[0.690s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.806s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.809s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.809s] -- Added test 'lint_cmake' to check CMake code style
+[0.810s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.811s] -- Added test 'xmllint' to check XML markup files
+[0.812s] -- Configuring done (0.7s)
+[0.817s] -- Generating done (0.0s)
+[0.818s] -- Build files have been written to: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control
+[0.823s] Invoked command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/saitama/.local/bin/cmake /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/src/robot_control -DCMAKE_INSTALL_PREFIX=/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control
+[0.825s] Invoking command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control': CMAKE_PREFIX_PATH=/opt/ros/humble /home/saitama/.local/bin/cmake --build /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control -- -j16 -l16
+[0.891s] Invoked command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/saitama/.local/bin/cmake --build /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control -- -j16 -l16
+[0.892s] Invoking command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control': CMAKE_PREFIX_PATH=/opt/ros/humble /home/saitama/.local/bin/cmake --install /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control
+[0.940s] -- Install configuration: ""
+[0.940s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts
+[0.941s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/InverseKinematics
+[0.941s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/InverseKinematics/robot_IK.py
+[0.941s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/ramped_joypad.py
+[0.941s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RobotController
+[0.941s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RobotController/CrawlGaitController.py
+[0.941s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RobotController/GaitController.py
+[0.941s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RobotController/PIDController.py
+[0.941s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RobotController/RobotController.py
+[0.942s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RobotController/StandController.py
+[0.942s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RobotController/StateCommand.py
+[0.942s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RobotController/TrotGaitController.py
+[0.942s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RoboticsUtilities
+[0.942s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/RoboticsUtilities/Transformations.py
+[0.943s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//scripts/robot_controller_gazebo.py
+[0.943s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//launch
+[0.943s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control//launch/robot_control.launch.py
+[0.943s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/robot_controller_gazebo.py
+[0.943s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/ramped_joypad.py
+[0.943s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/robot_control.launch.py
+[0.943s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/RoboticsUtilities/Transformations.py
+[0.944s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/RobotController/CrawlGaitController.py
+[0.944s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/RobotController/GaitController.py
+[0.944s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/RobotController/PIDController.py
+[0.944s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/RobotController/RobotController.py
+[0.944s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/RobotController/StandController.py
+[0.945s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/RobotController/StateCommand.py
+[0.945s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/RobotController/TrotGaitController.py
+[0.945s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/lib/robot_control/InverseKinematics/robot_IK.py
+[0.945s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/ament_index/resource_index/package_run_dependencies/robot_control
+[0.945s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/ament_index/resource_index/parent_prefix_path/robot_control
+[0.946s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/environment/ament_prefix_path.sh
+[0.946s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/environment/ament_prefix_path.dsv
+[0.946s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/environment/path.sh
+[0.946s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/environment/path.dsv
+[0.946s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/local_setup.bash
+[0.946s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/local_setup.sh
+[0.946s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/local_setup.zsh
+[0.946s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/local_setup.dsv
+[0.946s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/package.dsv
+[0.947s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/ament_index/resource_index/packages/robot_control
+[0.947s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/cmake/robot_controlConfig.cmake
+[0.947s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/cmake/robot_controlConfig-version.cmake
+[0.947s] -- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_control/share/robot_control/package.xml
+[0.950s] Invoked command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/saitama/.local/bin/cmake --install /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control

@@ -1,0 +1,24 @@
+[0.023s] Invoking command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/saitama/.local/bin/cmake --build /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api -- -j16 -l16
+[0.109s] Invoked command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/saitama/.local/bin/cmake --build /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api -- -j16 -l16
+[0.181s] Invoking command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/saitama/.local/bin/cmake --install /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api
+[0.252s] -- Install configuration: ""
+[0.253s] -- Execute custom install script
+[0.253s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/lib/gemini_api/gemini_planner_node.py
+[0.253s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/lib/gemini_api/low_level_policy.py
+[0.253s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/lib/gemini_api/plan_executor_node.py
+[0.254s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/ament_index/resource_index/package_run_dependencies/gemini_api
+[0.254s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/ament_index/resource_index/parent_prefix_path/gemini_api
+[0.255s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/environment/ament_prefix_path.sh
+[0.255s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/environment/ament_prefix_path.dsv
+[0.255s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/environment/path.sh
+[0.256s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/environment/path.dsv
+[0.256s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/local_setup.bash
+[0.256s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/local_setup.sh
+[0.256s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/local_setup.zsh
+[0.257s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/local_setup.dsv
+[0.257s] -- Symlinking: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/package.dsv
+[0.261s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/ament_index/resource_index/packages/gemini_api
+[0.262s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/cmake/gemini_apiConfig.cmake
+[0.263s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/cmake/gemini_apiConfig-version.cmake
+[0.263s] -- Up-to-date symlink: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/gemini_api/share/gemini_api/package.xml
+[0.285s] Invoked command in '/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/saitama/.local/bin/cmake --install /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/gemini_api

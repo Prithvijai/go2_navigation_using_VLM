@@ -1,0 +1,101 @@
+[0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+[0m
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter
+-- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_description
+-- Install configuration: ""
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/base
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/base/base.gazebo
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/base/base.xacro
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/left_thigh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/left_thigh/left_thigh.gazebo
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/left_thigh/left_thigh.xacro
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/leg_joint
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/leg_joint/leg_joint.gazebo
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/leg_joint/leg_joint.xacro
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/right_thigh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/right_thigh/right_thigh.gazebo
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/right_thigh/right_thigh.xacro
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/shin
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/shin/shin.gazebo
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/parts/shin/shin.xacro
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/robot
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/robot/robot.usd
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/robot.urdf
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/robot.xacro
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//robot/robot_control_gazebo.xacro
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/base
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/base/base_link.dae
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/left_thigh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/left_thigh/left_thigh.dae
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/leg_joint
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/leg_joint/leg_joint.dae
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/nuckle
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/nuckle/knuckle.dae
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/right_thigh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/right_thigh/right_thigh.dae
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/shin
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/shin/shin.dae
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/wheel
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/DAE/wheel/wheel.dae
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/base
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/base/base_link.stl
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/base/base_link_old.stl
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/knuckle
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/knuckle/knuckle.stl
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/left_thigh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/left_thigh/left_thigh.stl
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/leg_joint
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/leg_joint/leg_joint.stl
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/right_thigh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/right_thigh/right_thigh.stl
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/shin
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//meshes/STL/shin/shin.stl
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//config
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description//config/robot_controller.yaml
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/environment/path.sh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/environment/path.dsv
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/local_setup.bash
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/local_setup.sh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/local_setup.zsh
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/local_setup.dsv
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/package.dsv
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/ament_index/resource_index/packages/robot_description
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+-- Installing: /media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/install/robot_description/share/robot_description/package.xml

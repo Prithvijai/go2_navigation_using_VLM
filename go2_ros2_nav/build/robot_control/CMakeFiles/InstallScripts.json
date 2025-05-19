@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/media/saitama/Games1/Documents_ubuntu/perception_project/go2_ros2_nav/build/robot_control/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
